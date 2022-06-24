@@ -8,7 +8,7 @@ Also for db connection, on another terminal
 
 ### `json-server --watch db.json --port 3004`
 
-# Defiences
+# Missing Parts
 
 1) Db connected but cant make authentication right now.
 2) Editing todo list not working.
